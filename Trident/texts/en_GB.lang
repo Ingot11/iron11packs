@@ -1,0 +1,6 @@
+item.trident.name=Bamboo Trident
+entity.thrown_trident.name=Bamboo Trident
+howtoplay.weapons.header.4=Bamboo Trident
+howtoplay.weapons.text.6.notTouch=The Bamboo Trident is a dual-purpose melee and ranged weapon. Press :_input_key.attack: to attack. Press and hold :_input_key.use: to draw the bamboo trident back. Release :_input_key.use: to throw the bamboo trident. The Bamboo Trident is the best weapon underwater.
+howtoplay.weapons.text.6.touch=The Bamboo Trident is a dual-purpose melee and ranged weapon. Tap mobs to attack them. Press and hold the Screen to draw the bamboo trident back. Release the press to throw the bamboo trident. The Bamboo Trident is the best weapon underwater.
+tips.game.24=Bamboo Tridents are dropped by the Drowned, and can be held or thrown.

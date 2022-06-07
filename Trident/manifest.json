@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§aTrident",
+        "name": "Trrident",
+        "uuid": "74b77b27-921a-43ce-a2b4-4671147626de",
+        "version": [1, 0, 2],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "f9925113-7493-4791-b92e-82eff824ef9c",
+            "version": [1, 0, 2]
+        }
+    ]
+}

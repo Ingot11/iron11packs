@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "A Square Shield by @Iron11_ on Twitter",
+        "name": "Square Shield Pack",
+        "uuid": "359dcfb6-e3ec-4758-bef7-d5912e8c8d54",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 8, 0 ]
+    },
+    "modules": [
+        {
+            "description": "A small shield",
+            "type": "resources",
+            "uuid": "3c0e053c-496d-466d-a70d-c74ceda738dd",
+            "version": [1, 0, 0]
+        }
+    ]
+}
