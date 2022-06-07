@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A simple combiantion pack by @Iron11_ on Twitter",
+        "name": "Iron11Pack",
+        "uuid": "580ccaaf-b2bd-4e33-b66e-1071b970fd9b",
+        "version": [1, 0, 5],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "A simple combiantion pack",
+            "type": "resources",
+            "uuid": "8f6c4aa4-250d-498f-a56f-a7f5a6db21cf",
+            "version": [1, 0, 5]
+        }
+    ]
+}

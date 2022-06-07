@@ -1,0 +1,41 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "By @Iron11_ on Twitter",
+    "name": "Minecraft Earth Skin Texture Pack V2",
+    "uuid": "7778c2e7-2685-4949-bd00-99e68b8679b1",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9b3daaec-245e-4788-b78a-077eb783ba61",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+    ],
+    "subpacks": [
+      {
+          "folder_name": "numbered",
+          "name": "Numbered Hotbar",
+          "memory_tier": 1
+      },
+      {
+          "folder_name": "normal",
+          "name": "Normal Hotbar",
+          "memory_tier": 1
+      }
+   ]
+}

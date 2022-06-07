@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§bMake your inventory SMALLER§r",
+        "name": "§bInventory Shrinker Behavior§r",
+        "uuid": "1729d0ec-f6fc-4133-8f5e-39f855e19c09",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "7e93bdd4-65b3-4244-b3eb-412db4340cbb",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§bMake your inventory SMALLER§r",
+        "name": "§bInventory Shrinker Resource§r",
+        "uuid": "f5397065-6f3c-4fed-b3b3-77b2605d4dba",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "5f8a3ee6-7b8e-48f1-b774-03558f5c2314",
+            "version": [0, 0, 1]
+        }
+    ]
+}

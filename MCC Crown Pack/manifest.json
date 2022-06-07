@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A recreation of the crown from Minecraft Championships by @Iron11_ on Twitter",
+        "name": "MCC Crown Pack",
+        "uuid": "359dcfb6-e3ec-4758-bef7-d5912e8c8d54",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "A recreation of the crown from Minecraft Championships",
+            "type": "resources",
+            "uuid": "3c0e053c-496d-466d-a70d-c74ceda738dd",
+            "version": [1, 0, 0]
+        }
+    ]
+}

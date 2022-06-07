@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Fixes names for technical blocks!",
+        "name": "Item Name Fixer",
+        "uuid": "db604a69-20e8-409f-832e-3b17360bfe36",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "a85d8d30-c90b-4bc6-b58d-a4b83378f440",
+            "version": [0, 0, 1]
+        }
+    ],
+    "metadata":{
+        "authors":[ "Chocowinners", "Iron11s" ]
+    }
+}
